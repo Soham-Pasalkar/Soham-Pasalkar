@@ -149,3 +149,43 @@ English • Japanese • Hindi • Marathi
 ### 💡 *"Engineering the intersection of hardware and intelligence — one drone, one model, one breakthrough at a time."*
 
 **Open to ML/AI & Embedded Systems internships and collaborative projects | Based in Pune, India**
+
+---
+
+## 🔥 My Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prathameshfuke&theme=github_dark" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=prathameshfuke&theme=react&hide_border=true&ring=00ADB5&fire=00ADB5&currStreakLabel=00ADB5" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prathameshfuke&theme=github_dark" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prathameshfuke&theme=github_dark" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prathameshfuke&theme=github_dark&utcOffset=5.5" />
+
+</div>
+
+<br>
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathameshfuke&theme=react-dark&hide_border=true&area=true&color=00ADB5&line=00ADB5&point=FFFFFF"/>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=prathameshfuke&style=for-the-badge&color=00ADB5&label=Profile+Views" />
+
+</div>
+
+---
