@@ -1,191 +1,256 @@
-# Hey, I'm Soham Pasalkar 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=IoT+Engineer+%7C+ML+Developer+%7C+Drone+Builder;World+Rank+4+%E2%80%94+Technoxian+World+Robotics+2024;Building+at+the+Intersection+of+AI+%2B+Hardware;Embedded+Systems+%7C+Computer+Vision+%7C+UAV+Systems)](https://git.io/typing-svg)
-
-Embedded Systems & ML enthusiast passionate about **IoT**, **Computer Vision**, and **Autonomous Systems**. I build things that fly, think, and interact with the real world — from drones to AR applications to AI-powered agriculture tools.
-
-🎓 **Academic Standing:** CGPA 8.85 | Computer Engineering @ MMCOE Pune  
-🏆 **Recognition:** World Rank 4 — Technoxian World Robotics Championship 2024  
-🌐 **Community:** IoT Co-Head @ Google Developer's Group (GDG), MMCOE  
-📍 **Location:** Pune, India | Open to internships & collaborations
-
----
-
-## 💼 Professional Experience
-
-### 🌐 IoT Co-Head @ Google Developer's Group (GDG), MMCOE
-*Jul 2025 – Present | Pune, India*
-
-Leading the IoT division — organizing workshops on IoT systems, sensors, and cloud integration. Driving AI–IoT convergence and mentoring students in building real-time data applications and hardware prototypes.
-
-### 🧠 Machine Learning Associate @ IEEE Pune Section
-*Jun 2025 – Jul 2025 | Pune, India*
-
-Developed a **Neural Disease Detection** system for epilepsy diagnosis under IEEE EMBS Pune Chapter. Contributed to AI/ML-based biomedical modules with focus on healthcare data analysis and model development.
-
-### 🚁 Embedded & Flight Control Lead @ Team Vajra RC Drone Club, MMCOE
-*Aug 2023 – Oct 2024 | Pune, India*
-
-Led embedded systems and electronics for a competitive drone team. Built Quadcopters, Hexacopters, obstacle-avoiding cars, and multiple autonomous systems — culminating in a **World Rank 4** finish at Technoxian 2024.
-
----
-
-## 🌟 Featured Projects
-
-### 🚁 Quadcopter & Hexacopter — World Rank 4
-**Technoxian World Robotics Championship 2024**
-
-Built fully functional multi-rotor drones from scratch with real-time image processing and PID-controlled stability. Tuned ESCs, calibrated radio transmitters, and integrated safety failsafes including signal loss detection and soft motor kill switch.
-
-**Tech Stack:** Embedded C++ • KK2.1.5 Flight Controller • BLDC Motors • LiPo Battery • OpenCV • FlySky FS-i6  
-**[View Project →](https://github.com/sohampasalkar)**
-
----
-
-### 👗 Augmented Reality Virtual Try-On
-*Jan 2025*
-
-Real-time AR clothing try-on using MediaPipe body landmark tracking and OpenCV. Built a web-based virtual store where users can try clothes digitally — enhancing the online shopping experience with computer vision.
-
-**Tech Stack:** Python • OpenCV • MediaPipe • ARCore • Front-end Development  
-**[View Project →](https://github.com/sohampasalkar)**
-
----
-
-### 🌾 AI-Powered Fertilizer Recommendation System
-*Dec 2024*
-
-Web-based AI/ML application recommending optimal fertilizers based on soil type, pH, location, and crop. Used OpenCV for soil image classification via colour and texture features, and Scikit-Learn for nutrient recommendation modeling.
-
-**Tech Stack:** Python • OpenCV • Scikit-Learn • Flask • MongoDB  
-**[View Project →](https://github.com/sohampasalkar)**
-
----
-
-## 🛠️ Technical Skills
-
-### Languages & Core
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Embedded C++](https://img.shields.io/badge/-Embedded%20C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MicroPython](https://img.shields.io/badge/-MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white)
-
-### ML & Computer Vision
-![Scikit-Learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?style=for-the-badge&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Web & Backend
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### Hardware & IoT
-![Arduino](https://img.shields.io/badge/-Microcontrollers-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Flight%20Controllers-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
----
-
-### 📚 Detailed Expertise
-
-**Languages** — C • C++ • Python • Java • Embedded C++ • MicroPython
-
-**Technologies** — Machine Learning • Data Analytics • Computer Vision • Computer Networks • IoT • UAV Systems
-
-**Frameworks** — Scikit-Learn • Pandas • NumPy • OpenCV • MediaPipe • Flask
-
-**Hardware** — Microcontrollers • KK2.1.5 Flight Controllers • BLDC Motors • ESC Calibration • LiPo Battery Systems • FlySky Transmitters
-
-**Soft Skills** — Leadership • Communication • Project Management • Presentations • Team Collaboration
-
----
-
-## 🏆 Achievements & Recognition
-
-### 🌍 World Rank 4 — Technoxian World Robotics Championship 2024
-Led embedded systems for Team Vajra at one of the world's largest robotics competitions. Designed, built, and flew competitive drones that earned a top-4 global ranking.
-
-### 🎓 Academic Excellence
-- **CGPA: 8.85/10.00** — Computer Engineering, MMCOE Pune
-- **Class Representative** for 3 consecutive semesters — strengthened student–faculty communication
-
-### 🌱 Community Leadership
-- **IoT Co-Head** at GDG MMCOE — organizing workshops on IoT, cloud integration, and AI–hardware convergence
-- **IEEE ML Associate** — contributing to biomedical AI research under EMBS Pune Chapter
-
----
-
-## 👥 Volunteer & Community
-
-### 🌿 Core Team Member @ Forengers Foundation (NGO)
-*Jan 2025 – Present | Pune, India*
-
-Planted and maintained **200+ plants** across Pune. Actively participated in environmental conservation drives promoting sustainability and community service.
-
----
-
-## 🗣️ Languages
-
-English • Japanese • Hindi • Marathi
-
----
-
-## 📫 Connect With Me
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohampasalkar2023.comp@mmcoe.edu.in)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sohampasalkar)
-[![Mobile](https://img.shields.io/badge/Mobile-+91%2070833%2015722-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917083315722)
-
----
-
-### 💡 *"Engineering the intersection of hardware and intelligence — one drone, one model, one breakthrough at a time."*
-
-**Open to ML/AI & Embedded Systems internships and collaborative projects | Based in Pune, India**
-
----
-
-## 🔥 My Stats
-
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prathameshfuke&theme=github_dark" />
+```
+╔═══════════════════════════════════════════════════════════════╗
+║  ██████  ██████  ██   ██  █████  ███    ███                  ║
+║ ██      ██    ██ ██   ██ ██   ██ ████  ████                  ║
+║  █████  ██    ██ ███████ ███████ ██ ████ ██                  ║
+║      ██ ██    ██ ██   ██ ██   ██ ██  ██  ██                  ║
+║ ██████   ██████  ██   ██ ██   ██ ██      ██  PASALKAR        ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-<img width="49%" src="https://streak-stats.demolab.com?user=prathameshfuke&theme=react&hide_border=true&ring=00ADB5&fire=00ADB5&currStreakLabel=00ADB5" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=⚡+IoT+Engineer+%7C+ML+Developer+%7C+Drone+Architect;🌍+World+Rank+4+—+Technoxian+Robotics+Championship+2024;🤖+Building+AI+%2B+Hardware+Systems+That+Think+%26+Fly;🔬+Computer+Vision+%7C+Embedded+Systems+%7C+UAV+Tech)](https://git.io/typing-svg)
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prathameshfuke&theme=github_dark" />
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prathameshfuke&theme=github_dark" />
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prathameshfuke&theme=github_dark&utcOffset=5.5" />
-
-</div>
-
-<br>
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathameshfuke&theme=react-dark&hide_border=true&area=true&color=00ADB5&line=00ADB5&point=FFFFFF"/>
-
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=prathameshfuke&style=for-the-badge&color=00ADB5&label=Profile+Views" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0&animation=fadeIn"/>
 
 </div>
 
 ---
+
+<div align="center">
+
+### `> INITIALIZING PROFILE...` &nbsp;🟢 &nbsp;`SYSTEM ONLINE`
+
+</div>
+
+<table>
+<tr>
+<td>
+
+```yaml
+Name       : Soham Pasalkar
+Role       : IoT Engineer | ML Developer | Drone Builder
+Location   : Pune, India 🇮🇳
+CGPA       : 8.85 / 10.00
+Status     : 🟢 Open to Internships & Collaborations
+Focus      : AI × Hardware Convergence
+Achievement: 🏆 World Rank 4 — Technoxian 2024
+Community  : IoT Co-Head @ GDG MMCOE
+```
+
+</td>
+<td>
+
+```python
+class SohamPasalkar:
+    languages  = ["C", "C++", "Python", "Java",
+                   "Embedded C++", "MicroPython"]
+    domains    = ["IoT", "ML", "Computer Vision",
+                   "UAV Systems", "Embedded Systems"]
+    superpower = "Making machines fly + think"
+    currently  = "Building AI-powered IoT @ GDG"
+    fun_fact   = "I gave drones a brain 🧠✈️"
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## ◈ EXPERIENCE MATRIX ◈
+
+</div>
+
+### 🌐 `[01]` IoT Co-Head — Google Developer's Group (GDG), MMCOE
+> *Jul 2025 – Present &nbsp;|&nbsp; Pune, India*
+
+```
+▸ Leading IoT division: workshops on sensors, cloud integration & real-time data systems
+▸ Driving AI–IoT convergence and mentoring students in hardware prototyping
+▸ Championing the next wave of intelligent, connected devices
+```
+
+---
+
+### 🧬 `[02]` Machine Learning Associate — IEEE Pune Section
+> *Jun 2025 – Jul 2025 &nbsp;|&nbsp; Pune, India*
+
+```
+▸ Developed Neural Disease Detection system for Epilepsy (IEEE EMBS Pune Chapter)
+▸ Built AI/ML biomedical modules for healthcare data analysis
+▸ Contributed to frontier research in clinical machine intelligence
+```
+
+---
+
+### 🚁 `[03]` Embedded & Flight Control Lead — Team Vajra Drone Club, MMCOE
+> *Aug 2023 – Oct 2024 &nbsp;|&nbsp; Pune, India*
+
+```
+▸ 🌍 WORLD RANK 4 — Technoxian World Robotics Championship 2024
+▸ Built Quadcopters, Hexacopters, obstacle-avoiding cars & autonomous systems
+▸ Led end-to-end embedded design: ESC tuning, PID control, failsafe integration
+```
+
+---
+
+<div align="center">
+
+## ◈ PROJECT ARSENAL ◈
+
+</div>
+
+### 🚁 `PROJECT-01` &nbsp; Quadcopter & Hexacopter &nbsp; `[WORLD RANK 4]`
+
+<img src="https://img.shields.io/badge/Status-DEPLOYED-00ff88?style=flat-square&logo=checkmarx&logoColor=black"/> <img src="https://img.shields.io/badge/Achievement-World%20Rank%204-00cfff?style=flat-square"/> <img src="https://img.shields.io/badge/Domain-UAV%20Systems-0077b6?style=flat-square"/>
+
+```
+◆ Built fully functional multi-rotor drones from scratch with real-time image processing
+◆ PID-controlled stability using KK2.1.5 flight controller
+◆ Tuned ESCs, calibrated radio transmitters, integrated safety failsafes
+◆ Signal loss detection + soft motor kill switch for mission-critical safety
+```
+
+`Embedded C++` &nbsp;•&nbsp; `KK2.1.5` &nbsp;•&nbsp; `BLDC Motors` &nbsp;•&nbsp; `OpenCV` &nbsp;•&nbsp; `FlySky FS-i6` &nbsp;•&nbsp; `LiPo Battery`
+
+[![View Project](https://img.shields.io/badge/⚡_View_Project-0d1117?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0d1117)](https://github.com/sohampasalkar)
+
+---
+
+### 👗 `PROJECT-02` &nbsp; Augmented Reality Virtual Try-On &nbsp; `[Jan 2025]`
+
+<img src="https://img.shields.io/badge/Status-COMPLETED-00ff88?style=flat-square&logo=checkmarx&logoColor=black"/> <img src="https://img.shields.io/badge/Domain-Computer%20Vision%20%2B%20AR-00cfff?style=flat-square"/>
+
+```
+◆ Real-time AR clothing overlay using MediaPipe body landmark tracking
+◆ OpenCV-powered pose estimation for precise clothing alignment
+◆ Full web-based virtual store — shop smarter with your body as the canvas
+```
+
+`Python` &nbsp;•&nbsp; `OpenCV` &nbsp;•&nbsp; `MediaPipe` &nbsp;•&nbsp; `ARCore` &nbsp;•&nbsp; `Front-end Dev`
+
+[![View Project](https://img.shields.io/badge/⚡_View_Project-0d1117?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0d1117)](https://github.com/sohampasalkar)
+
+---
+
+### 🌾 `PROJECT-03` &nbsp; AI-Powered Fertilizer Recommendation System &nbsp; `[Dec 2024]`
+
+<img src="https://img.shields.io/badge/Status-COMPLETED-00ff88?style=flat-square&logo=checkmarx&logoColor=black"/> <img src="https://img.shields.io/badge/Domain-AgriTech%20%2B%20ML-00cfff?style=flat-square"/>
+
+```
+◆ Recommends optimal fertilizers based on soil type, pH, location & crop
+◆ OpenCV soil image classification via colour and texture feature analysis
+◆ Scikit-Learn ML model for precision nutrient recommendations
+◆ Farmer-friendly dashboard with full agricultural insight reporting
+```
+
+`Python` &nbsp;•&nbsp; `OpenCV` &nbsp;•&nbsp; `Scikit-Learn` &nbsp;•&nbsp; `Flask` &nbsp;•&nbsp; `MongoDB`
+
+[![View Project](https://img.shields.io/badge/⚡_View_Project-0d1117?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0d1117)](https://github.com/sohampasalkar)
+
+---
+
+<div align="center">
+
+## ◈ TECH STACK ◈
+
+### ⚡ Languages
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d7eff?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-00b4d8?style=for-the-badge&logo=openjdk&logoColor=white)
+![Embedded C++](https://img.shields.io/badge/Embedded%20C++-005f73?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=00ff88)
+
+### 🤖 ML & Computer Vision
+
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-0a9396?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-00b4d8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-00cfff?style=for-the-badge&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-023e8a?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0077b6?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🛠️ Tools & Databases
+
+![Flask](https://img.shields.io/badge/Flask-00ff88?style=for-the-badge&logo=flask&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-00b894?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0077b6?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-00f5ff?style=for-the-badge&logo=github&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-00b050?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 🔧 Hardware & IoT
+
+![Microcontrollers](https://img.shields.io/badge/Microcontrollers-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Flight Controllers](https://img.shields.io/badge/KK2.1.5_Flight_Controller-0077b6?style=for-the-badge&logoColor=white)
+![UAV Systems](https://img.shields.io/badge/UAV_Systems-00ff88?style=for-the-badge&logoColor=black)
+![IoT](https://img.shields.io/badge/IoT_Integration-00b4d8?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ ACHIEVEMENT LOG ◈
+
+</div>
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  🌍  WORLD RANK 4  —  Technoxian World Robotics Championship     ║
+║       Competed globally, built from zero, conquered the podium   ║
+╠══════════════════════════════════════════════════════════════════╣
+║  🎓  CGPA 8.85  |  Class Representative × 3 Semesters           ║
+║       Top academic performer + student-faculty bridge builder    ║
+╠══════════════════════════════════════════════════════════════════╣
+║  🌐  IoT Co-Head @ GDG MMCOE  |  IEEE ML Associate              ║
+║       Leading communities, mentoring the next gen of builders    ║
+╠══════════════════════════════════════════════════════════════════╣
+║  🌱  200+ Trees Planted  —  Forengers Foundation NGO             ║
+║       Engineering a better planet, one plant at a time           ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+<div align="center">
+
+## ◈ GITHUB STATS ◈
+
+<img src="https://github-readme-stats.vercel.app/api?username=sohampasalkar&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00ff88&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohampasalkar&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sohampasalkar&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00f5ff&ring=00ff88&fire=00cfff&currStreakLabel=00f5ff"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ CONNECT ◈
+
+[![Email](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logoColor=white)](mailto:sohampasalkar2023.comp@mmcoe.edu.in)
+[![GitHub](https://img.shields.io/badge/⚡_GitHub-00f5ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/sohampasalkar)
+[![Phone](https://img.shields.io/badge/📱_+91_70833_15722-00ff88?style=for-the-badge&logo=whatsapp&logoColor=black)](tel:+917083315722)
+
+---
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  "Engineering the intersection of hardware and intelligence —   │
+│   one drone, one model, one breakthrough at a time."            │
+│                                              — Soham Pasalkar   │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn"/>
+
+**`> PROFILE LOADED SUCCESSFULLY ✅`** &nbsp;|&nbsp; **`SYSTEM: ONLINE 🟢`** &nbsp;|&nbsp; **`READY TO BUILD 🚀`**
+
+</div>
