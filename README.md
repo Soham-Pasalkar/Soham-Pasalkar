@@ -61,97 +61,6 @@ class SohamPasalkar:
 
 <div align="center">
 
-## ◈ EXPERIENCE MATRIX ◈
-
-</div>
-
-### 🌐 `[01]` IoT Co-Head — Google Developer's Group (GDG), MMCOE
-> *Jul 2025 – Present &nbsp;|&nbsp; Pune, India*
-
-```
-▸ Leading IoT division: workshops on sensors, cloud integration & real-time data systems
-▸ Driving AI–IoT convergence and mentoring students in hardware prototyping
-▸ Championing the next wave of intelligent, connected devices
-```
-
----
-
-### 🧬 `[02]` Machine Learning Associate — IEEE Pune Section
-> *Jun 2025 – Jul 2025 &nbsp;|&nbsp; Pune, India*
-
-```
-▸ Developed Neural Disease Detection system for Epilepsy (IEEE EMBS Pune Chapter)
-▸ Built AI/ML biomedical modules for healthcare data analysis
-▸ Contributed to frontier research in clinical machine intelligence
-```
-
----
-
-### 🚁 `[03]` Embedded & Flight Control Lead — Team Vajra Drone Club, MMCOE
-> *Aug 2023 – Oct 2024 &nbsp;|&nbsp; Pune, India*
-
-```
-▸ 🌍 WORLD RANK 4 — Technoxian World Robotics Championship 2024
-▸ Built Quadcopters, Hexacopters, obstacle-avoiding cars & autonomous systems
-▸ Led end-to-end embedded design: ESC tuning, PID control, failsafe integration
-```
-
----
-
-<div align="center">
-
-## ◈ PROJECT ARSENAL ◈
-
-</div>
-
-### 🚁 `PROJECT-01` &nbsp; Quadcopter & Hexacopter &nbsp; `[WORLD RANK 4]`
-
-<img src="https://img.shields.io/badge/Status-DEPLOYED-00ff88?style=flat-square&logo=checkmarx&logoColor=black"/> <img src="https://img.shields.io/badge/Achievement-World%20Rank%204-00cfff?style=flat-square"/> <img src="https://img.shields.io/badge/Domain-UAV%20Systems-0077b6?style=flat-square"/>
-
-```
-◆ Built fully functional multi-rotor drones from scratch with real-time image processing
-◆ PID-controlled stability using KK2.1.5 flight controller
-◆ Tuned ESCs, calibrated radio transmitters, integrated safety failsafes
-◆ Signal loss detection + soft motor kill switch for mission-critical safety
-```
-
-`Embedded C++` &nbsp;•&nbsp; `KK2.1.5` &nbsp;•&nbsp; `BLDC Motors` &nbsp;•&nbsp; `OpenCV` &nbsp;•&nbsp; `FlySky FS-i6` &nbsp;•&nbsp; `LiPo Battery`
-
-[![View Project](https://img.shields.io/badge/⚡_View_Project-0d1117?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0d1117)](https://github.com/sohampasalkar)
-
----
-
-### 👗 `PROJECT-02` &nbsp; Augmented Reality Virtual Try-On &nbsp; `[Jan 2025]`
-
-<img src="https://img.shields.io/badge/Status-COMPLETED-00ff88?style=flat-square&logo=checkmarx&logoColor=black"/> <img src="https://img.shields.io/badge/Domain-Computer%20Vision%20%2B%20AR-00cfff?style=flat-square"/>
-
-```
-◆ Real-time AR clothing overlay using MediaPipe body landmark tracking
-◆ OpenCV-powered pose estimation for precise clothing alignment
-◆ Full web-based virtual store — shop smarter with your body as the canvas
-```
-
-`Python` &nbsp;•&nbsp; `OpenCV` &nbsp;•&nbsp; `MediaPipe` &nbsp;•&nbsp; `ARCore` &nbsp;•&nbsp; `Front-end Dev`
-
-[![View Project](https://img.shields.io/badge/⚡_View_Project-0d1117?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0d1117)](https://github.com/sohampasalkar)
-
----
-
-### 🌾 `PROJECT-03` &nbsp; AI-Powered Fertilizer Recommendation System &nbsp; `[Dec 2024]`
-
-<img src="https://img.shields.io/badge/Status-COMPLETED-00ff88?style=flat-square&logo=checkmarx&logoColor=black"/> <img src="https://img.shields.io/badge/Domain-AgriTech%20%2B%20ML-00cfff?style=flat-square"/>
-
-```
-◆ Recommends optimal fertilizers based on soil type, pH, location & crop
-◆ OpenCV soil image classification via colour and texture feature analysis
-◆ Scikit-Learn ML model for precision nutrient recommendations
-◆ Farmer-friendly dashboard with full agricultural insight reporting
-```
-
-`Python` &nbsp;•&nbsp; `OpenCV` &nbsp;•&nbsp; `Scikit-Learn` &nbsp;•&nbsp; `Flask` &nbsp;•&nbsp; `MongoDB`
-
-[![View Project](https://img.shields.io/badge/⚡_View_Project-0d1117?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0d1117)](https://github.com/sohampasalkar)
-
 ---
 
 <div align="center">
@@ -222,10 +131,10 @@ class SohamPasalkar:
 
 ## ◈ GITHUB STATS ◈
 
-<img src="https://github-readme-stats.vercel.app/api?username=sohampasalkar&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00ff88&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Soham-Pasalkar&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00ff88&text_color=ffffff" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohampasalkar&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sohampasalkar&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00f5ff&ring=00ff88&fire=00cfff&currStreakLabel=00f5ff"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Soham-Pasalkar&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00f5ff&ring=00ff88&fire=00cfff&currStreakLabel=00f5ff"/>
 
 </div>
 
