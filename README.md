@@ -87,13 +87,13 @@ Embedded Systems & ML enthusiast passionate about **IoT**, **Computer Vision**, 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Soham-Pasalkar&theme=gotham&hide_border=true&ring=268f77&fire=268f77&currStreakLabel=268f77"/>
+<img src="https://streak-stats.demolab.com?user=Soham-Pasalkar&theme=gotham&hide_border=true&ring=268f77&fire=268f77&currStreakLabel=268f77"/>
 
 </div>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Soham-Pasalkar&bg_color=0c1014&color=268f77&line=268f77&point=268f77&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Soham-Pasalkar&bg_color=0c1014&color=268f77&line=268f77&point=268f77&area=true&hide_border=true&cache_seconds=0"/>
 
 ---
 
